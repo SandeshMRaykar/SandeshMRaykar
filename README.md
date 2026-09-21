@@ -21,7 +21,7 @@ I am interested in AI/ML Engineer and Software Engineering opportunities where I
 - 💻 Building on 4+ years of professional software development experience
 - 🔎 Open to full-time opportunities in AI/ML and Software Engineering
 
-- ### Tech Stack
+### Tech Stack
 Python | SQL | Machine Learning | Data Science | Git | GitHub | Docker | GCP
 
 ### Areas of Interest
